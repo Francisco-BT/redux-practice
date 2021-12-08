@@ -1,6 +1,10 @@
+import Container from './containers';
+
 function App() {
   return (
-    <div className="App">React</div>
+    <div className="App">
+      <Container />
+    </div>
   );
 }
 
